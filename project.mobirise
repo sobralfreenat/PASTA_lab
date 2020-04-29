@@ -60,7 +60,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "descritivo do lab",
+        "meta_descr": "Web App  para acompanhamento da evolução dos testes.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
