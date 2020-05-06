@@ -1231,10 +1231,11 @@ section.lazy-placeholder:after {
 }
 .cid-rY9B0Ogauk {
   background: #000000;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-rY9B0Ogauk .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rY9B0Ogauk .video-block {
@@ -1242,12 +1243,11 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rYaqiuTKd0 {
-  background: #585555;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  background: #000000;
 }
 .cid-rYaqiuTKd0 .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rYaqiuTKd0 .video-block {
