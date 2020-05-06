@@ -1242,11 +1242,12 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rYaqiuTKd0 {
-  background: #ffffff;
+  background: #585555;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-rYaqiuTKd0 .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rYaqiuTKd0 .video-block {
